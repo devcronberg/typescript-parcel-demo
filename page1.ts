@@ -1,3 +1,3 @@
 export function test(): void {
-  console.log("*");
+  console.log("!!*!!");
 }
